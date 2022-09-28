@@ -6,7 +6,9 @@ Site da Alura Play
 
 Exibição de uma página com diversos vídeos utilizando flexbox  
 O projeto possui responsividade em 3 tamanhos de tela  
+
 > <=834px, >=834px e >=1440px  
+
 É possível assistir os vídeos disponíveis na tela dando play
 
 ## ✔️ Técnicas e tecnologias utilizadas
